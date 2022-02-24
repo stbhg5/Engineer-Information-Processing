@@ -32,3 +32,5 @@ Study for Engineer Information Processing
 2022.02.23
 ![20220223_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/155337055-f53aee53-b6d3-4297-b34c-1fc200c1dbcd.jpg)
 
+2022.02.24
+
