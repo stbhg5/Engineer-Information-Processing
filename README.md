@@ -2,7 +2,7 @@
 Study for Engineer Information Processing
 <br/><br/>
 
-- 필기시험<br/><br/>
+- 필기시험<br/>
 2022.02.14
 ![20220214_정보처리기사](https://user-images.githubusercontent.com/83276757/154078156-825862db-45fa-4e70-a02a-e053b3e77768.jpg)
 
@@ -64,6 +64,6 @@ Study for Engineer Information Processing
 ![20220305_정보처리기사 시험](https://user-images.githubusercontent.com/83276757/156871522-2ba97e60-156b-4be8-8aa1-a66725767716.jpg)
 <br/><br/>
 
-- 실기시험<br/><br/>
+- 실기시험<br/>
 
 
