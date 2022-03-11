@@ -65,5 +65,5 @@ Study for Engineer Information Processing
 <br/><br/>
 
 - 실기시험<br/>
-
+2022.
 
