@@ -65,5 +65,6 @@ Study for Engineer Information Processing
 <br/><br/>
 
 - 실기시험<br/>
-2022.
+2022.03.12
+![20220312_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/158006438-41d4769e-fa7f-41d7-a262-a661a47dd9c2.jpg)
 
