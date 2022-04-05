@@ -135,3 +135,6 @@ Study for Engineer Information Processing
 2022.04.04
 ![20220404_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/161557719-4c3b8adb-fa6a-4c49-a452-35167060ae47.jpg)
 
+2022.04.05
+![20220405_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/161772250-fef0e0e6-8972-464b-8a4b-6c49c4c4e4d5.jpg)
+
