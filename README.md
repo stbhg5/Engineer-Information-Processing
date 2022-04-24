@@ -1,5 +1,5 @@
 # Engineer-Information-Processing
-Study for Engineer Information Processing
+정보처리기사 시험준비
 <br/><br/>
 
 - 필기시험<br/>
@@ -191,4 +191,7 @@ Study for Engineer Information Processing
 
 2022.04.23
 ![20220423_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/164883761-ee96203c-5306-46a2-ae92-04c8fb85987c.jpg)
+
+2022.04.24
+![20220424_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/164958795-8c3dbba4-0fc7-45b5-a57e-65c1a71da447.jpg)
 
