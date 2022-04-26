@@ -198,3 +198,6 @@
 2022.04.25
 ![20220425_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/165126631-0e9e9bb5-cb71-4a16-9a79-fa2ea4398b5f.jpg)
 
+2022.04.26
+![20220426_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/165331340-48c16ecb-f208-453e-9bff-13f875dedf0e.jpg)
+
