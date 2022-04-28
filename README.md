@@ -201,5 +201,6 @@
 2022.04.26
 ![20220426_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/165331340-48c16ecb-f208-453e-9bff-13f875dedf0e.jpg)
 
-2022.04.27
+2022.04.28
+![20220428_정보처리기사 공부](https://user-images.githubusercontent.com/83276757/165785359-6af9bca7-672f-46d9-ab8e-aa65fa57d605.jpg)
 
