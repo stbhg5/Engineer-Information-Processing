@@ -1742,3 +1742,73 @@ while(1)일 때 무한히 반복한다.
 으로 접근, 검색이 가능한 레지스트리이자
 표준이다.
 
+
++ 추가 정리
+@ UI 설계 원칙 4가지 [두음 - 직유학유]
+- 직관성 : 누구나 쉽게 이해하고, 쉽게 사용할 수 있어야 함.
+- 유효성 : 정확하고 완벽하게 사용자의 목표가 달성될 수 있도록 제작.
+- 학습성 : 초보와 숙련자 모두가 쉽게 배우고 사용할 수 있게 제작
+- 유연성 : 사용자의 인터랙션을 최대한 포용하고, 실수를 방지할 수 있도록 제작.
+
+@ CREATE TABLE
+- 테이블 생성 명령
+CREATE TABLE 테이블명
+(
+컬럼명 데이터타입 PRIMARY KEY, --기본키 설정
+컬럼명 데이터타입 FOREIGN KEY REFERENCES 참조테이블(기본키), --외래키 설정
+컬럼명 데이터타입 UNIQUE,
+컬럼명 데이터타입 NOT NULL,
+컬럼명 데이터타입 CHECK(조건식), --제약조건 설정
+컬럼명 데이터타입 DEFAULT 값
+);
+
+@ ALTER TABLE
+- 컬럼 추가 명령
+ALTER TABLE 테이블명 ADD 컬럼명 데이터타입 [제약조건];
+- 컬럼 수정 명령
+ALTER TABLE 테이블명 MODIFY 컬럼명 데이터타입 [제약조건];
+- 컬럼 삭제 명령
+ALTER TABLE 테이블명 DROP 컬럼명;
+
+@ DROP TABLE
+- 테이블 삭제 명령
+DROP TABLE 테이블명 [CASCADE | RESTRICT]
+(CASCADE : 참조하는 테이블까지 연쇄적으로 제거하는 옵션.
+ RESTRICT : 다른 테이블이 삭제할 테이블을 참조 중이면 제거하지 않는 옵션.)
+
+@ TRUNCATE TABLE
+- 테이블 내의 데이터 삭제 명령
+TRUNCATE TABLE 테이블명;
+
+@ CREATE VIEW
+- 뷰 생성 명령
+CREATE VIEW 뷰이름 AS
+조회쿼리;
+
+@ CREATE OR REPLACE VIEW
+- 뷰 교체 명령
+CREATE OR REPLACE 뷰이름 AS
+조회쿼리;
+
+@ DROP VIEW
+- 뷰 삭제 명령
+DROP VIEW 뷰이름;
+
+@ CREATE INDEX
+- 인덱스 생성 명령
+CREATE [UNIQUE] INDEX 인덱스명 ON 테이블명(컬럼명1, 컬럼명2, ...);
+
+@ ALTER INDEX
+-인덱스 수정 명령
+ALTER [UNIQUE] INDEX 인덱스명 ON 테이블명(컬럼명1, 컬럼명2, ...);
+(기존 인덱스를 삭제하고 신규 인덱스를 생성하는 방식으로 사용을 권고한다.)
+
+@ DROP INDEX
+- 인덱스 삭제 명령
+DROP INDEX 인덱스명;
+
+@ HRN (Highest Response Ratio Next) : 대기 중인 프로세스 중 현재 응답률(Response Ratio)이
+가장 높은 것을 선택. SJF의 약점인 기아 현상을 보완한 기법으로 긴 작업과 짧은 작업 간의 불
+평등 완화. HRN의 우선순위 = (대기 시간 + 서비스 시간) / 서비스 시간. 기아 현상(starvation)
+최소화 기법.
+(비선점형 스케쥴링 알고리즘)
