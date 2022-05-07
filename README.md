@@ -1812,3 +1812,28 @@ DROP INDEX 인덱스명;
 평등 완화. HRN의 우선순위 = (대기 시간 + 서비스 시간) / 서비스 시간. 기아 현상(starvation)
 최소화 기법.
 (비선점형 스케쥴링 알고리즘)
+
+
+[정보처리기사 실기 시험 - 답안지 가채점]
+
+X 1. 2
+X 2. copy redump
+O 3. 2000
+O 4. OREDR score DESC
+O 5. 특정 데이터를 삭제할 때 원치 않는 데이터도 삭제되는 현상.
+O 6. a=20 b=2
+O 7. extend() pop() reverse()
+X 8. PKI
+O 9. NUI
+O 10. static dynamic
+X 11. Car.run()
+O 12. jUnit
+O 13. 경곗값분석 동등분할 원인결과
+X 14. 5
+      120
+▲ 15. > | | (부분점수)
+X 16. 포렌식
+O 17. 유일성 유일성,최소성
+O 18. Watering Hole
+X 19. 2
+O 20. 단위테스트 통합테스트 시스템테스트 인수테스트
