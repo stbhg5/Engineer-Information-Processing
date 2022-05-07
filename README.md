@@ -1819,7 +1819,7 @@ DROP INDEX 인덱스명;
 X 1. 2
 X 2. copy redump
 O 3. 2000
-O 4. OREDR score DESC
+O 4. ORDER score DESC
 O 5. 특정 데이터를 삭제할 때 원치 않는 데이터도 삭제되는 현상.
 O 6. a=20 b=2
 O 7. extend() pop() reverse()
