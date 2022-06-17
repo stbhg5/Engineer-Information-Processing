@@ -1837,3 +1837,6 @@ O 17. 유일성 유일성,최소성
 O 18. Watering Hole
 X 19. 2
 O 20. 단위테스트 통합테스트 시스템테스트 인수테스트
+
+[정보처리기사 자격증]
+![제목 없음](https://user-images.githubusercontent.com/83276757/174276678-c16530bc-63cd-4540-ac17-825b4119508a.png)
