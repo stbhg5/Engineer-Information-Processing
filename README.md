@@ -1816,27 +1816,27 @@ DROP INDEX 인덱스명;
 
 [정보처리기사 실기 시험 - 답안지 가채점]
 
-X 1. 2
-X 2. copy redump
-O 3. 2000
-O 4. ORDER score DESC
-O 5. 특정 데이터를 삭제할 때 원치 않는 데이터도 삭제되는 현상.
-O 6. a=20 b=2
-O 7. extend() pop() reverse()
-X 8. PKI
-O 9. NUI
-O 10. static dynamic
-X 11. Car.run()
-O 12. jUnit
-O 13. 경곗값분석 동등분할 원인결과
-X 14. 5
-      120
-▲ 15. > | | (부분점수)
-X 16. 포렌식
-O 17. 유일성 유일성,최소성
-O 18. Watering Hole
-X 19. 2
-O 20. 단위테스트 통합테스트 시스템테스트 인수테스트
+X 1. 2 <br>
+X 2. copy redump <br>
+O 3. 2000 <br>
+O 4. ORDER score DESC <br>
+O 5. 특정 데이터를 삭제할 때 원치 않는 데이터도 삭제되는 현상. <br>
+O 6. a=20 b=2 <br>
+O 7. extend() pop() reverse() <br>
+X 8. PKI <br>
+O 9. NUI <br>
+O 10. static dynamic <br>
+X 11. Car.run() <br>
+O 12. jUnit <br>
+O 13. 경곗값분석 동등분할 원인결과 <br>
+X 14. 5 <br>
+      120 <br>
+▲ 15. > | | (부분점수) <br>
+X 16. 포렌식 <br>
+O 17. 유일성 유일성,최소성 <br>
+O 18. Watering Hole <br>
+X 19. 2 <br>
+O 20. 단위테스트 통합테스트 시스템테스트 인수테스트 <br>
 
 [정보처리기사 자격증]
 ![제목 없음](https://user-images.githubusercontent.com/83276757/174276678-c16530bc-63cd-4540-ac17-825b4119508a.png)
